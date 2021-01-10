@@ -97,7 +97,7 @@
   "main": "dist/index.js",
   "name": "graphql-subscriptions",
   "peerDependencies": {
-    "graphql": "^0.10.5 || ^0.11.3 || ^0.12.0 || ^0.13.0 || ^14.0.0"
+    "graphql": "^0.10.5 || ^0.11.3 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0"
   },
   "repository": {
     "type": "git",
